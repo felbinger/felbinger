@@ -1,0 +1,28 @@
+name: Update README.md
+
+on:
+  push:
+  schedule:
+    - cron: "0 0 */1 * *"
+
+jobs:
+  markscribe:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - uses: muesli/readme-scribe@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT_PACKAGES }}
+        with:
+          template: "README.tpl.md"
+          writeTo: "README.md"
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Updated README.md
+          branch: main
+          commit_user_name: Github Actions
+          commit_user_email: actions@github.com
+          commit_author: Github Actions <actions@github.com>
