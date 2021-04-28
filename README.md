@@ -3,8 +3,6 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=felbinger&theme=dark">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felbinger&theme=dark">
 
-<p><br></p>
-
 [![Visits](https://badges.pufler.dev/visits/felbinger/felbinger?style=flat-square&color=black&logo=github)](https://github.com/felbinger)
 [![Years](https://badges.pufler.dev/years/felbinger?style=flat-square&color=black&logo=github)](https://github.com/felbinger)
 [![Repos](https://badges.pufler.dev/repos/felbinger?style=flat-square&color=black&logo=github)](https://github.com/felbinger?tab=repositories)
