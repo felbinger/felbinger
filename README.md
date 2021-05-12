@@ -11,11 +11,11 @@
 
 ### :construction_worker: Check out what I'm currently working on
 
-- [themorpheustutorials/website](https://github.com/themorpheustutorials/website) - Website of The Morpheus Tutorials (1 day ago)
-- [SecureShellNetworks/website](https://github.com/SecureShellNetworks/website) -  (4 days ago)
-- [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) - Linux Server Administrator Guide (6 days ago)
+- [secshellnet/cdn](https://github.com/secshellnet/cdn) - Repository for Images, delivered using Cloudflare pages (1 day ago)
+- [themorpheustutorials/website](https://github.com/themorpheustutorials/website) - Website of The Morpheus Tutorials (2 days ago)
+- [secshellnet/website](https://github.com/secshellnet/website) -  (5 days ago)
+- [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) - Linux Server Administrator Guide (1 week ago)
 - [themorpheustutorials/status-web](https://github.com/themorpheustutorials/status-web) -  (1 week ago)
-- [felbinger/scripts](https://github.com/felbinger/scripts) -  (1 week ago)
 
 ### :seedling: My latest projects
 
