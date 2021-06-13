@@ -11,11 +11,11 @@
 
 ### :construction_worker: Check out what I'm currently working on
 
-- [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) - Linux Server Administrator Guide (1 day ago)
-- [secshellnet/docs](https://github.com/secshellnet/docs) - Documentation (3 days ago)
+- [felbinger/PyTemplate](https://github.com/felbinger/PyTemplate) - Python Django Deployment using Docker (1 day ago)
+- [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) - Linux Server Administrator Guide (2 days ago)
+- [secshellnet/docs](https://github.com/secshellnet/docs) - Documentation (4 days ago)
 - [felbinger/scripts](https://github.com/felbinger/scripts) -  (1 week ago)
 - [secshellnet/cdn](https://github.com/secshellnet/cdn) - Repository for Images, delivered using Cloudflare pages (1 month ago)
-- [themorpheustutorials/website](https://github.com/themorpheustutorials/website) - Website of The Morpheus Tutorials (1 month ago)
 
 ### :seedling: My latest projects
 
