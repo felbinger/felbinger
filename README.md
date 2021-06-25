@@ -13,7 +13,7 @@
 
 - [secshellnet/docs](https://github.com/secshellnet/docs) - Documentation (1 week ago)
 - [felbinger/PyTemplate](https://github.com/felbinger/PyTemplate) - Python Django Deployment using Docker (1 week ago)
-- [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) - Linux Server Administrator Guide (1 week ago)
+- [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) - Linux Server Administrator Guide (2 weeks ago)
 - [felbinger/scripts](https://github.com/felbinger/scripts) -  (3 weeks ago)
 - [secshellnet/cdn](https://github.com/secshellnet/cdn) - Repository for Images, delivered using Cloudflare pages (1 month ago)
 
