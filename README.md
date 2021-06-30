@@ -11,8 +11,8 @@
 
 ### :construction_worker: Check out what I'm currently working on
 
-- [secshellnet/docs](https://github.com/secshellnet/docs) - Documentation (2 days ago)
-- [felbinger/DDBT](https://github.com/felbinger/DDBT) - Discord Bot using Django Framework (4 days ago)
+- [secshellnet/docs](https://github.com/secshellnet/docs) - Documentation (3 days ago)
+- [felbinger/DDBT](https://github.com/felbinger/DDBT) - Discord Bot using Django Framework (5 days ago)
 - [felbinger/PyTemplate](https://github.com/felbinger/PyTemplate) - Python Django Deployment using Docker (2 weeks ago)
 - [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) - Linux Server Administrator Guide (2 weeks ago)
 - [felbinger/scripts](https://github.com/felbinger/scripts) -  (4 weeks ago)
