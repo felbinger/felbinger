@@ -11,10 +11,10 @@
 
 ### :construction_worker: Check out what I'm currently working on
 
-- [felbinger/scripts](https://github.com/felbinger/scripts) -  (3 days ago)
-- [secshellnet/docs](https://github.com/secshellnet/docs) - Documentation (6 days ago)
+- [felbinger/scripts](https://github.com/felbinger/scripts) -  (4 days ago)
+- [secshellnet/docs](https://github.com/secshellnet/docs) - Documentation (1 week ago)
 - [felbinger/DDBT](https://github.com/felbinger/DDBT) - Discord Bot using Django Framework (1 week ago)
-- [felbinger/PyTemplate](https://github.com/felbinger/PyTemplate) - Python Django Deployment using Docker (2 weeks ago)
+- [felbinger/PyTemplate](https://github.com/felbinger/PyTemplate) - Python Django Deployment using Docker (3 weeks ago)
 - [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) - Linux Server Administrator Guide (3 weeks ago)
 
 ### :seedling: My latest projects
