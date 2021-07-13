@@ -11,9 +11,9 @@
 
 ### :construction_worker: Check out what I'm currently working on
 
-- [secshellnet/docs](https://github.com/secshellnet/docs) - Documentation (3 days ago)
-- [themorpheustutorials/status](https://github.com/themorpheustutorials/status) - The Moprheus Tutorials Statuspage (4 days ago)
-- [themorpheustutorials/resources](https://github.com/themorpheustutorials/resources) - Resources from the community, for the community. (6 days ago)
+- [secshellnet/docs](https://github.com/secshellnet/docs) - Documentation (1 day ago)
+- [themorpheustutorials/status](https://github.com/themorpheustutorials/status) - The Moprheus Tutorials Statuspage (5 days ago)
+- [themorpheustutorials/resources](https://github.com/themorpheustutorials/resources) - Resources from the community, for the community. (1 week ago)
 - [felbinger/DDBT](https://github.com/felbinger/DDBT) - Discord Bot using Django Framework (1 week ago)
 - [felbinger/scripts](https://github.com/felbinger/scripts) -  (1 week ago)
 
