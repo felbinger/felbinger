@@ -11,19 +11,19 @@
 
 ### :construction_worker: Check out what I'm currently working on
 
-- [secshellnet/docs](https://github.com/secshellnet/docs) - Documentation (2 days ago)
-- [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) - Linux Server Administrator Guide (3 days ago)
+- [secshellnet/docs](https://github.com/secshellnet/docs) - Documentation (1 day ago)
+- [felbinger/PostInstall_Fedora](https://github.com/felbinger/PostInstall_Fedora) - Post Installation Routines for Fedora 34 (1 day ago)
+- [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) - Linux Server Administrator Guide (4 days ago)
 - [themorpheustutorials/status](https://github.com/themorpheustutorials/status) - The Moprheus Tutorials Statuspage (2 weeks ago)
 - [themorpheustutorials/resources](https://github.com/themorpheustutorials/resources) - Resources from the community, for the community. (2 weeks ago)
-- [felbinger/DDBT](https://github.com/felbinger/DDBT) - Discord Bot using Django Framework (2 weeks ago)
 
 ### :seedling: My latest projects
 
+- [felbinger/PostInstall_Fedora](https://github.com/felbinger/PostInstall_Fedora) - Post Installation Routines for Fedora 34
 - [felbinger/DDBT](https://github.com/felbinger/DDBT) - Discord Bot using Django Framework
 - [felbinger/dbm](https://github.com/felbinger/dbm) - Docker Backup Manager
 - [felbinger/dtc](https://github.com/felbinger/dtc) - Discord Telegram Connector (using Redis as pub-sub)
 - [felbinger/BotTemplate](https://github.com/felbinger/BotTemplate) - Python Discord Bot Template
-- [felbinger/GdP](https://github.com/felbinger/GdP) - German University Course: Grundlagen der Programmierung
 
 ### :telescope: Latest releases I've contributed to
 
