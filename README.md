@@ -11,11 +11,11 @@
 
 ### :construction_worker: Check out what I'm currently working on
 
-- [secshellnet/scripts](https://github.com/secshellnet/scripts) - Secure Shell Network: Scripts (1 day ago)
-- [secshellnet/docs](https://github.com/secshellnet/docs) - Documentation (1 day ago)
-- [felbinger/PostInstall_Fedora](https://github.com/felbinger/PostInstall_Fedora) - Post Installation Routines for Fedora 34 (2 days ago)
+- [felbinger/PostInstall_Fedora](https://github.com/felbinger/PostInstall_Fedora) - Post Installation Routines for Fedora 34 (1 day ago)
+- [themorpheustutorials/resources](https://github.com/themorpheustutorials/resources) - Resources from the community, for the community. (1 day ago)
+- [secshellnet/scripts](https://github.com/secshellnet/scripts) - Secure Shell Network: Scripts (2 days ago)
+- [secshellnet/docs](https://github.com/secshellnet/docs) - Documentation (2 days ago)
 - [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) - Linux Server Administrator Guide (1 week ago)
-- [themorpheustutorials/status](https://github.com/themorpheustutorials/status) - The Moprheus Tutorials Statuspage (2 weeks ago)
 
 ### :seedling: My latest projects
 
