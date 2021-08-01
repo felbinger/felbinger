@@ -11,19 +11,19 @@
 
 ### :construction_worker: Check out what I'm currently working on
 
-- [secshellnet/docs](https://github.com/secshellnet/docs) - Documentation (3 days ago)
-- [felbinger/PostInstall_Fedora](https://github.com/felbinger/PostInstall_Fedora) - Post Installation Routines for Fedora 34 (4 days ago)
-- [themorpheustutorials/resources](https://github.com/themorpheustutorials/resources) - Resources from the community, for the community. (4 days ago)
-- [secshellnet/scripts](https://github.com/secshellnet/scripts) - Secure Shell Network: Scripts (5 days ago)
-- [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) - Linux Server Administrator Guide (1 week ago)
+- [felbinger/UbiquitiNS5Config](https://github.com/felbinger/UbiquitiNS5Config) - Richtfunkstrecke mit Ubiquiti NanoStation 5 (1 day ago)
+- [secshellnet/docs](https://github.com/secshellnet/docs) - Documentation (4 days ago)
+- [themorpheustutorials/resources](https://github.com/themorpheustutorials/resources) - Resources from the community, for the community. (5 days ago)
+- [felbinger/PostInstall_Fedora](https://github.com/felbinger/PostInstall_Fedora) - Post Installation Routines for Fedora 34 (5 days ago)
+- [secshellnet/scripts](https://github.com/secshellnet/scripts) - Secure Shell Network: Scripts (6 days ago)
 
 ### :seedling: My latest projects
 
+- [felbinger/UbiquitiNS5Config](https://github.com/felbinger/UbiquitiNS5Config) - Richtfunkstrecke mit Ubiquiti NanoStation 5
 - [felbinger/PostInstall_Fedora](https://github.com/felbinger/PostInstall_Fedora) - Post Installation Routines for Fedora 34
 - [felbinger/DDBT](https://github.com/felbinger/DDBT) - Discord Bot using Django Framework
 - [felbinger/dbm](https://github.com/felbinger/dbm) - Docker Backup Manager
 - [felbinger/dtc](https://github.com/felbinger/dtc) - Discord Telegram Connector (using Redis as pub-sub)
-- [felbinger/BotTemplate](https://github.com/felbinger/BotTemplate) - Python Discord Bot Template
 
 ### :telescope: Latest releases I've contributed to
 
@@ -31,4 +31,4 @@
 - [an2ic3/ACL](https://github.com/an2ic3/ACL) ([v1.1.0](https://github.com/an2ic3/ACL/releases/tag/v1.1.0), 5 months ago) - Access Control List for Traefik
 - [felbinger/dbm](https://github.com/felbinger/dbm) ([v0.0.1](https://github.com/felbinger/dbm/releases/tag/v0.0.1), 6 months ago) - Docker Backup Manager
 - [an2ic3/jitsi2prometheus](https://github.com/an2ic3/jitsi2prometheus) ([v1.0.0](https://github.com/an2ic3/jitsi2prometheus/releases/tag/v1.0.0), 6 months ago) - Jitsi Statistics to Prometheus
-- [felbinger/DNV](https://github.com/felbinger/DNV) ([v0.1](https://github.com/felbinger/DNV/releases/tag/v0.1), 8 months ago) - Docker Network Viewer
+- [felbinger/DNV](https://github.com/felbinger/DNV) ([v0.1](https://github.com/felbinger/DNV/releases/tag/v0.1), 9 months ago) - Docker Network Viewer
