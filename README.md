@@ -11,11 +11,11 @@
 
 ### :construction_worker: Check out what I'm currently working on
 
-- [secshellnet/scripts](https://github.com/secshellnet/scripts) -  (1 day ago)
-- [secshellnet/docs](https://github.com/secshellnet/docs) -  (2 days ago)
-- [felbinger/scripts](https://github.com/felbinger/scripts) -  (2 days ago)
-- [MarcelCoding/docker-keycloak-ssh](https://github.com/MarcelCoding/docker-keycloak-ssh) -  (4 days ago)
-- [felbinger/DNV](https://github.com/felbinger/DNV) - Docker Network Viewer (4 days ago)
+- [Feluxerich/FastVueAuth](https://github.com/Feluxerich/FastVueAuth) -  (1 day ago)
+- [secshellnet/scripts](https://github.com/secshellnet/scripts) -  (2 days ago)
+- [secshellnet/docs](https://github.com/secshellnet/docs) -  (3 days ago)
+- [felbinger/scripts](https://github.com/felbinger/scripts) -  (3 days ago)
+- [MarcelCoding/docker-keycloak-ssh](https://github.com/MarcelCoding/docker-keycloak-ssh) -  (5 days ago)
 
 ### :seedling: My latest projects
 
