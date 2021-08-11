@@ -11,11 +11,11 @@
 
 ### :construction_worker: Check out what I'm currently working on
 
-- [Feluxerich/FastVueAuth](https://github.com/Feluxerich/FastVueAuth) -  (2 days ago)
-- [secshellnet/scripts](https://github.com/secshellnet/scripts) -  (3 days ago)
-- [secshellnet/docs](https://github.com/secshellnet/docs) -  (4 days ago)
-- [felbinger/scripts](https://github.com/felbinger/scripts) -  (4 days ago)
-- [MarcelCoding/docker-keycloak-ssh](https://github.com/MarcelCoding/docker-keycloak-ssh) -  (6 days ago)
+- [Feluxerich/FastVueAuth](https://github.com/Feluxerich/FastVueAuth) -  (3 days ago)
+- [secshellnet/scripts](https://github.com/secshellnet/scripts) -  (4 days ago)
+- [secshellnet/docs](https://github.com/secshellnet/docs) -  (5 days ago)
+- [felbinger/scripts](https://github.com/felbinger/scripts) -  (5 days ago)
+- [MarcelCoding/docker-keycloak-ssh](https://github.com/MarcelCoding/docker-keycloak-ssh) -  (1 week ago)
 
 ### :seedling: My latest projects
 
@@ -27,7 +27,7 @@
 
 ### :telescope: Latest releases I've contributed to
 
-- [themorpheustutorials/certificate-checker](https://github.com/themorpheustutorials/certificate-checker) ([v0.0.2](https://github.com/themorpheustutorials/certificate-checker/releases/tag/v0.0.2), 3 months ago) - Certificate Checker Application
+- [themorpheustutorials/certificate-checker](https://github.com/themorpheustutorials/certificate-checker) ([v0.0.2](https://github.com/themorpheustutorials/certificate-checker/releases/tag/v0.0.2), 4 months ago) - Certificate Checker Application
 - [an2ic3/ACL](https://github.com/an2ic3/ACL) ([v1.1.0](https://github.com/an2ic3/ACL/releases/tag/v1.1.0), 6 months ago) - Access Control List for Traefik
 - [felbinger/dbm](https://github.com/felbinger/dbm) ([v0.0.1](https://github.com/felbinger/dbm/releases/tag/v0.0.1), 6 months ago) - Docker Backup Manager
 - [an2ic3/jitsi2prometheus](https://github.com/an2ic3/jitsi2prometheus) ([v1.0.0](https://github.com/an2ic3/jitsi2prometheus/releases/tag/v1.0.0), 7 months ago) - Jitsi Statistics to Prometheus
