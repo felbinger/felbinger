@@ -11,9 +11,9 @@
 
 ### :construction_worker: Check out what I'm currently working on
 
-- [Feluxerich/FastVueAuth](https://github.com/Feluxerich/FastVueAuth) -  (6 days ago)
+- [secshellnet/docs](https://github.com/secshellnet/docs) -  (1 day ago)
+- [Feluxerich/FastVueAuth](https://github.com/Feluxerich/FastVueAuth) -  (1 week ago)
 - [secshellnet/scripts](https://github.com/secshellnet/scripts) -  (1 week ago)
-- [secshellnet/docs](https://github.com/secshellnet/docs) -  (1 week ago)
 - [felbinger/scripts](https://github.com/felbinger/scripts) -  (1 week ago)
 - [MarcelCoding/docker-keycloak-ssh](https://github.com/MarcelCoding/docker-keycloak-ssh) -  (1 week ago)
 
