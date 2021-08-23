@@ -11,7 +11,7 @@
 
 ### :construction_worker: Check out what I'm currently working on
 
-- [secshellnet/docs](https://github.com/secshellnet/docs) -  (2 days ago)
+- [secshellnet/docs](https://github.com/secshellnet/docs) -  (today)
 - [Feluxerich/FastVueAuth](https://github.com/Feluxerich/FastVueAuth) -  (2 weeks ago)
 - [secshellnet/scripts](https://github.com/secshellnet/scripts) -  (2 weeks ago)
 - [felbinger/scripts](https://github.com/felbinger/scripts) -  (2 weeks ago)
