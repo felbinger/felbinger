@@ -12,14 +12,14 @@
 ### :construction_worker: Check out what I'm currently working on
 
 - [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) - Linux Server Administrator Guide (1 day ago)
-- [secshellnet/docs](https://github.com/secshellnet/docs) -  (2 days ago)
-- [felbinger/stuff](https://github.com/felbinger/stuff) -  (6 days ago)
+- [secshellnet/docs](https://github.com/secshellnet/docs) (2 days ago)
+- [felbinger/stuff](https://github.com/felbinger/stuff) (6 days ago)
 - [secshellnet/keycloak-configurator](https://github.com/secshellnet/keycloak-configurator) - Application to adjust keycloak xml configuration (1 week ago)
 - [themorpheustutorials/public](https://github.com/themorpheustutorials/public) - Public Documents from The Morpheus Tutorials (1 week ago)
 
 ### :seedling: My latest projects
 
-- [felbinger/stuff](https://github.com/felbinger/stuff) - 
+- [felbinger/stuff](https://github.com/felbinger/stuff)
 - [felbinger/UbiquitiNS5Config](https://github.com/felbinger/UbiquitiNS5Config) - Richtfunkstrecke mit Ubiquiti NanoStation 5
 - [felbinger/PostInstall_Fedora](https://github.com/felbinger/PostInstall_Fedora) - Post Installation Routines for Fedora 34
 - [felbinger/DDBT](https://github.com/felbinger/DDBT) - Discord Bot using Django Framework
