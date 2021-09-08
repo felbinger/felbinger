@@ -11,11 +11,11 @@
 
 ### :construction_worker: Check out what I'm currently working on
 
-- [secshellnet/docs](https://github.com/secshellnet/docs) -  (1 day ago)
-- [felbinger/stuff](https://github.com/felbinger/stuff) -  (5 days ago)
+- [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) - Linux Server Administrator Guide (1 day ago)
+- [secshellnet/docs](https://github.com/secshellnet/docs) -  (2 days ago)
+- [felbinger/stuff](https://github.com/felbinger/stuff) -  (6 days ago)
 - [secshellnet/keycloak-configurator](https://github.com/secshellnet/keycloak-configurator) - Application to adjust keycloak xml configuration (1 week ago)
 - [themorpheustutorials/public](https://github.com/themorpheustutorials/public) - Public Documents from The Morpheus Tutorials (1 week ago)
-- [themorpheustutorials/certificate-checker](https://github.com/themorpheustutorials/certificate-checker) - Certificate Checker Application (1 week ago)
 
 ### :seedling: My latest projects
 
