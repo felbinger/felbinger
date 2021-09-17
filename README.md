@@ -11,7 +11,7 @@
 
 ### :construction_worker: Check out what I'm currently working on
 
-- [secshellnet/docs](https://github.com/secshellnet/docs) (6 days ago)
+- [secshellnet/docs](https://github.com/secshellnet/docs) (1 day ago)
 - [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) - Linux Server Administrator Guide (1 week ago)
 - [felbinger/stuff](https://github.com/felbinger/stuff) (2 weeks ago)
 - [secshellnet/keycloak-configurator](https://github.com/secshellnet/keycloak-configurator) - Application to adjust keycloak xml configuration (2 weeks ago)
@@ -27,7 +27,7 @@
 
 ### :telescope: Latest releases I've contributed to
 
-- [secshellnet/keycloak-configurator](https://github.com/secshellnet/keycloak-configurator) ([v1.0.3](https://github.com/secshellnet/keycloak-configurator/releases/tag/v1.0.3), 2 weeks ago) - Application to adjust keycloak xml configuration
+- [secshellnet/keycloak-configurator](https://github.com/secshellnet/keycloak-configurator) ([v1.0.3](https://github.com/secshellnet/keycloak-configurator/releases/tag/v1.0.3), 3 weeks ago) - Application to adjust keycloak xml configuration
 - [themorpheustutorials/certificate-checker](https://github.com/themorpheustutorials/certificate-checker) ([v0.0.2](https://github.com/themorpheustutorials/certificate-checker/releases/tag/v0.0.2), 5 months ago) - Certificate Checker Application
 - [an2ic3/ACL](https://github.com/an2ic3/ACL) ([v1.1.0](https://github.com/an2ic3/ACL/releases/tag/v1.1.0), 7 months ago) - Access Control List for Traefik
 - [felbinger/dbm](https://github.com/felbinger/dbm) ([v0.0.1](https://github.com/felbinger/dbm/releases/tag/v0.0.1), 7 months ago) - Docker Backup Manager
