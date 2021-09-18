@@ -14,7 +14,7 @@
 - [secshellnet/docs](https://github.com/secshellnet/docs) (1 day ago)
 - [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) - Linux Server Administrator Guide (1 week ago)
 - [felbinger/stuff](https://github.com/felbinger/stuff) (2 weeks ago)
-- [secshellnet/keycloak-configurator](https://github.com/secshellnet/keycloak-configurator) - Application to adjust keycloak xml configuration (2 weeks ago)
+- [secshellnet/keycloak-configurator](https://github.com/secshellnet/keycloak-configurator) - Application to adjust keycloak xml configuration (3 weeks ago)
 - [themorpheustutorials/public](https://github.com/themorpheustutorials/public) - Public Documents from The Morpheus Tutorials (3 weeks ago)
 
 ### :seedling: My latest projects
