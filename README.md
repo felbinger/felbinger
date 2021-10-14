@@ -11,19 +11,19 @@
 
 ### :construction_worker: Check out what I'm currently working on
 
+- [felbinger/LineageOS_a3y17lte](https://github.com/felbinger/LineageOS_a3y17lte) - Instructions to install lineage os on a Samsung Galaxy A3 (2017) also known as SM-A320FL or a3y17lte (today)
 - [secshellnet/docs](https://github.com/secshellnet/docs) (2 weeks ago)
 - [codeformuenster/muensterhack](https://github.com/codeformuenster/muensterhack) - Dokumentation der Projekte des Münsterhack (2 weeks ago)
 - [Just-another-Muensterhack/revent](https://github.com/Just-another-Muensterhack/revent) (2 weeks ago)
-- [felbinger/testflutter](https://github.com/felbinger/testflutter) (2 weeks ago)
-- [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) - Linux Server Administrator Guide (3 weeks ago)
+- [felbinger/testflutter](https://github.com/felbinger/testflutter) (3 weeks ago)
 
 ### :seedling: My latest projects
 
+- [felbinger/LineageOS_a3y17lte](https://github.com/felbinger/LineageOS_a3y17lte) - Instructions to install lineage os on a Samsung Galaxy A3 (2017) also known as SM-A320FL or a3y17lte
 - [felbinger/testflutter](https://github.com/felbinger/testflutter)
 - [felbinger/stuff](https://github.com/felbinger/stuff)
 - [felbinger/UbiquitiNS5Config](https://github.com/felbinger/UbiquitiNS5Config) - Richtfunkstrecke mit Ubiquiti NanoStation 5
 - [felbinger/PostInstall_Fedora](https://github.com/felbinger/PostInstall_Fedora) - Post Installation Routines for Fedora 34
-- [felbinger/DDBT](https://github.com/felbinger/DDBT) - Discord Bot using Django Framework
 
 ### :telescope: Latest releases I've contributed to
 
