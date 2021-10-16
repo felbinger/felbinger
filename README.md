@@ -11,10 +11,10 @@
 
 ### :construction_worker: Check out what I'm currently working on
 
-- [felbinger/LineageOS_a3y17lte](https://github.com/felbinger/LineageOS_a3y17lte) - Instructions to install lineage os on a Samsung Galaxy A3 (2017) also known as SM-A320FL or a3y17lte (1 day ago)
-- [secshellnet/docs](https://github.com/secshellnet/docs) (2 weeks ago)
+- [secshellnet/docs](https://github.com/secshellnet/docs) (1 day ago)
+- [felbinger/LineageOS_a3y17lte](https://github.com/felbinger/LineageOS_a3y17lte) - Instructions to install lineage os on a Samsung Galaxy A3 (2017) also known as SM-A320FL or a3y17lte (2 days ago)
 - [codeformuenster/muensterhack](https://github.com/codeformuenster/muensterhack) - Dokumentation der Projekte des Münsterhack (2 weeks ago)
-- [Just-another-Muensterhack/revent](https://github.com/Just-another-Muensterhack/revent) (2 weeks ago)
+- [Just-another-Muensterhack/revent](https://github.com/Just-another-Muensterhack/revent) (3 weeks ago)
 - [felbinger/testflutter](https://github.com/felbinger/testflutter) (3 weeks ago)
 
 ### :seedling: My latest projects
