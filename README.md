@@ -15,7 +15,7 @@
 - [Just-another-Muensterhack/continuous-deployment](https://github.com/Just-another-Muensterhack/continuous-deployment) - deploy apk to presentation phone using adb (1 week ago)
 - [felbinger/nginx-md-renderer](https://github.com/felbinger/nginx-md-renderer) - nginx configuration to render markdown files (1 week ago)
 - [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) - Linux Server Administrator Guide (1 week ago)
-- [secshellnet/docs](https://github.com/secshellnet/docs) (1 week ago)
+- [secshellnet/docs](https://github.com/secshellnet/docs) (2 weeks ago)
 
 ### :seedling: My latest projects
 
