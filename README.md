@@ -12,8 +12,8 @@
 ### :construction_worker: Check out what I'm currently working on
 
 - [themorpheustutorials/status](https://github.com/themorpheustutorials/status) - The Moprheus Tutorials Statuspage (1 week ago)
-- [Just-another-Muensterhack/continuous-deployment](https://github.com/Just-another-Muensterhack/continuous-deployment) - deploy apk to presentation phone using adb (1 week ago)
-- [felbinger/nginx-md-renderer](https://github.com/felbinger/nginx-md-renderer) - nginx configuration to render markdown files (1 week ago)
+- [Just-another-Muensterhack/continuous-deployment](https://github.com/Just-another-Muensterhack/continuous-deployment) - deploy apk to presentation phone using adb (2 weeks ago)
+- [felbinger/nginx-md-renderer](https://github.com/felbinger/nginx-md-renderer) - nginx configuration to render markdown files (2 weeks ago)
 - [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) - Linux Server Administrator Guide (2 weeks ago)
 - [secshellnet/docs](https://github.com/secshellnet/docs) (2 weeks ago)
 
