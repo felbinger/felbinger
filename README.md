@@ -11,8 +11,8 @@
 
 ### :construction_worker: Check out what I'm currently working on
 
-- [felbinger/django-snippets](https://github.com/felbinger/django-snippets) - Code Snippets for Django 3.2 (1 day ago)
-- [felbinger/PostInstall_Fedora](https://github.com/felbinger/PostInstall_Fedora) - Post Installation Routines for Fedora 34 (2 days ago)
+- [felbinger/PostInstall_Fedora](https://github.com/felbinger/PostInstall_Fedora) - Post Installation Routines for Fedora 34 (1 day ago)
+- [felbinger/django-snippets](https://github.com/felbinger/django-snippets) - Code Snippets for Django 3.2 (2 days ago)
 - [themorpheustutorials/status](https://github.com/themorpheustutorials/status) - The Moprheus Tutorials Statuspage (2 weeks ago)
 - [Just-another-Muensterhack/continuous-deployment](https://github.com/Just-another-Muensterhack/continuous-deployment) - deploy apk to presentation phone using adb (2 weeks ago)
 - [felbinger/nginx-md-renderer](https://github.com/felbinger/nginx-md-renderer) - nginx configuration to render markdown files (2 weeks ago)
