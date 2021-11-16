@@ -11,10 +11,10 @@
 
 ### :construction_worker: Check out what I'm currently working on
 
-- [felbinger/PostInstall_Fedora](https://github.com/felbinger/PostInstall_Fedora) - Post Installation Routines for Fedora 35 (1 day ago)
-- [secshellnet/docs](https://github.com/secshellnet/docs) (1 day ago)
-- [felbinger/scripts](https://github.com/felbinger/scripts) (2 days ago)
-- [felbinger/django-snippets](https://github.com/felbinger/django-snippets) - Code Snippets for Django 3.2 (4 days ago)
+- [felbinger/PostInstall_Fedora](https://github.com/felbinger/PostInstall_Fedora) - Post Installation Routines for Fedora 35 (2 days ago)
+- [secshellnet/docs](https://github.com/secshellnet/docs) (2 days ago)
+- [felbinger/scripts](https://github.com/felbinger/scripts) (3 days ago)
+- [felbinger/django-snippets](https://github.com/felbinger/django-snippets) - Code Snippets for Django 3.2 (5 days ago)
 - [themorpheustutorials/status](https://github.com/themorpheustutorials/status) - The Moprheus Tutorials Statuspage (2 weeks ago)
 
 ### :seedling: My latest projects
