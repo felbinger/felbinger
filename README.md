@@ -11,11 +11,11 @@
 
 ### :construction_worker: Check out what I'm currently working on
 
-- [secshellnet/docs](https://github.com/secshellnet/docs) (3 days ago)
+- [felbinger/DDBT](https://github.com/felbinger/DDBT) - Discord Bot using Django Framework (1 day ago)
+- [secshellnet/docs](https://github.com/secshellnet/docs) (4 days ago)
 - [felbinger/Armitage](https://github.com/felbinger/Armitage) - Dockerized Armitage Teamserver (1 week ago)
 - [felbinger/PostInstall_Fedora](https://github.com/felbinger/PostInstall_Fedora) - Post Installation Routines for Fedora 35 (2 weeks ago)
 - [felbinger/raspberrypi](https://github.com/felbinger/raspberrypi) (3 weeks ago)
-- [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) - Linux Server Administrator Guide (4 weeks ago)
 
 ### :seedling: My latest projects
 
