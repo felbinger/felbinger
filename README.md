@@ -11,11 +11,11 @@
 
 ### :construction_worker: Check out what I'm currently working on
 
-- [felbinger/CF-WebDNS](https://github.com/felbinger/CF-WebDNS) - Cloudflare DNS API WebGui (1 day ago)
-- [secshellnet/docs](https://github.com/secshellnet/docs) (3 days ago)
-- [felbinger/PostInstall_Fedora](https://github.com/felbinger/PostInstall_Fedora) - Post Installation Routines for Fedora 35 (4 days ago)
-- [themorpheustutorials/status](https://github.com/themorpheustutorials/status) - The Moprheus Tutorials Statuspage (1 week ago)
-- [felbinger/DDBT](https://github.com/felbinger/DDBT) - Discord Bot using Django Framework (3 weeks ago)
+- [secshellnet/docs](https://github.com/secshellnet/docs) (today)
+- [themorpheustutorials/certificate-checker](https://github.com/themorpheustutorials/certificate-checker) - Certificate Checker Application (today)
+- [themorpheustutorials/status](https://github.com/themorpheustutorials/status) - The Moprheus Tutorials Statuspage (1 day ago)
+- [felbinger/CF-WebDNS](https://github.com/felbinger/CF-WebDNS) - Cloudflare DNS API WebGui (2 days ago)
+- [felbinger/PostInstall_Fedora](https://github.com/felbinger/PostInstall_Fedora) - Post Installation Routines for Fedora 35 (5 days ago)
 
 ### :seedling: My latest projects
 
@@ -27,8 +27,8 @@
 
 ### :telescope: Latest releases I've contributed to
 
+- [themorpheustutorials/certificate-checker](https://github.com/themorpheustutorials/certificate-checker) ([v0.0.3](https://github.com/themorpheustutorials/certificate-checker/releases/tag/v0.0.3), 1 day ago) - Certificate Checker Application
 - [felbinger/Armitage](https://github.com/felbinger/Armitage) ([v1.0.0](https://github.com/felbinger/Armitage/releases/tag/v1.0.0), 1 month ago) - Dockerized Armitage Teamserver
 - [secshellnet/keycloak-configurator](https://github.com/secshellnet/keycloak-configurator) ([v1.0.3](https://github.com/secshellnet/keycloak-configurator/releases/tag/v1.0.3), 4 months ago) - Application to adjust keycloak xml configuration
-- [themorpheustutorials/certificate-checker](https://github.com/themorpheustutorials/certificate-checker) ([v0.0.2](https://github.com/themorpheustutorials/certificate-checker/releases/tag/v0.0.2), 8 months ago) - Certificate Checker Application
 - [an2ic3/ACL](https://github.com/an2ic3/ACL) ([v1.1.0](https://github.com/an2ic3/ACL/releases/tag/v1.1.0), 11 months ago) - Access Control List for Traefik
 - [felbinger/dbm](https://github.com/felbinger/dbm) ([v0.0.1](https://github.com/felbinger/dbm/releases/tag/v0.0.1), 11 months ago) - Docker Backup Manager
