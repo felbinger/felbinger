@@ -14,7 +14,7 @@
 - [secshellnet/docs](https://github.com/secshellnet/docs) (1 week ago)
 - [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) - Linux Server Administrator Guide (1 week ago)
 - [themorpheustutorials/certificate-checker](https://github.com/themorpheustutorials/certificate-checker) - Certificate Checker Application (1 week ago)
-- [themorpheustutorials/status](https://github.com/themorpheustutorials/status) - The Moprheus Tutorials Statuspage (1 week ago)
+- [themorpheustutorials/status](https://github.com/themorpheustutorials/status) - The Moprheus Tutorials Statuspage (2 weeks ago)
 - [felbinger/CF-WebDNS](https://github.com/felbinger/CF-WebDNS) - Cloudflare DNS API WebGui (2 weeks ago)
 
 ### :seedling: My latest projects
@@ -27,7 +27,7 @@
 
 ### :telescope: Latest releases I've contributed to
 
-- [themorpheustutorials/certificate-checker](https://github.com/themorpheustutorials/certificate-checker) ([v0.0.3](https://github.com/themorpheustutorials/certificate-checker/releases/tag/v0.0.3), 1 week ago) - Certificate Checker Application
+- [themorpheustutorials/certificate-checker](https://github.com/themorpheustutorials/certificate-checker) ([v0.0.3](https://github.com/themorpheustutorials/certificate-checker/releases/tag/v0.0.3), 2 weeks ago) - Certificate Checker Application
 - [felbinger/Armitage](https://github.com/felbinger/Armitage) ([v1.0.0](https://github.com/felbinger/Armitage/releases/tag/v1.0.0), 1 month ago) - Dockerized Armitage Teamserver
 - [secshellnet/keycloak-configurator](https://github.com/secshellnet/keycloak-configurator) ([v1.0.3](https://github.com/secshellnet/keycloak-configurator/releases/tag/v1.0.3), 4 months ago) - Application to adjust keycloak xml configuration
 - [an2ic3/ACL](https://github.com/an2ic3/ACL) ([v1.1.0](https://github.com/an2ic3/ACL/releases/tag/v1.1.0), 11 months ago) - Access Control List for Traefik
