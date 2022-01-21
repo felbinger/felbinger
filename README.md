@@ -12,18 +12,18 @@
 ### :construction_worker: Check out what I'm currently working on
 
 - [secshellnet/docs](https://github.com/secshellnet/docs) (1 day ago)
+- [felbinger/PostInstall_Fedora](https://github.com/felbinger/PostInstall_Fedora) - Post Installation Routines for Fedora 35 (1 day ago)
 - [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) - Linux Server Administrator Guide (2 weeks ago)
 - [themorpheustutorials/certificate-checker](https://github.com/themorpheustutorials/certificate-checker) - Certificate Checker Application (2 weeks ago)
 - [themorpheustutorials/status](https://github.com/themorpheustutorials/status) - The Moprheus Tutorials Statuspage (2 weeks ago)
-- [felbinger/CF-WebDNS](https://github.com/felbinger/CF-WebDNS) - Cloudflare DNS API WebGui (2 weeks ago)
 
 ### :seedling: My latest projects
 
-- [felbinger/CF-WebDNS](https://github.com/felbinger/CF-WebDNS) - Cloudflare DNS API WebGui
 - [felbinger/raspberrypi](https://github.com/felbinger/raspberrypi)
 - [felbinger/django-snippets](https://github.com/felbinger/django-snippets) - Code Snippets for Django 3.2
 - [felbinger/nginx-md-renderer](https://github.com/felbinger/nginx-md-renderer) - nginx configuration to render markdown files
 - [felbinger/UbiquitiNS5Config](https://github.com/felbinger/UbiquitiNS5Config) - Richtfunkstrecke mit Ubiquiti NanoStation 5
+- [felbinger/PostInstall_Fedora](https://github.com/felbinger/PostInstall_Fedora) - Post Installation Routines for Fedora 35
 
 ### :telescope: Latest releases I've contributed to
 
