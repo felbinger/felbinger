@@ -11,9 +11,9 @@
 
 ### :construction_worker: Check out what I'm currently working on
 
-- [felbinger/PyTemplate](https://github.com/felbinger/PyTemplate) - Python Django Deployment using Docker (1 day ago)
-- [felbinger/JavaTemplate](https://github.com/felbinger/JavaTemplate) - Java CI Template (5 days ago)
-- [felbinger/KotlinTemplate](https://github.com/felbinger/KotlinTemplate) - Kotlin CI Template (5 days ago)
+- [felbinger/PyTemplate](https://github.com/felbinger/PyTemplate) - Python Django Deployment using Docker (2 days ago)
+- [felbinger/JavaTemplate](https://github.com/felbinger/JavaTemplate) - Java CI Template (6 days ago)
+- [felbinger/KotlinTemplate](https://github.com/felbinger/KotlinTemplate) - Kotlin CI Template (6 days ago)
 - [secshellnet/docs](https://github.com/secshellnet/docs) (1 week ago)
 - [felbinger/CF-WebDNS](https://github.com/felbinger/CF-WebDNS) - Cloudflare WebDNS Panel with API Token authentication (1 week ago)
 
