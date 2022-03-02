@@ -29,5 +29,5 @@
 
 - [secshellnet/sftpshare](https://github.com/secshellnet/sftpshare) ([v0.0.1](https://github.com/secshellnet/sftpshare/releases/tag/v0.0.1), 3 weeks ago) - This repository provides a sftp share which can be deployed using docker.
 - [themorpheustutorials/certificate-checker](https://github.com/themorpheustutorials/certificate-checker) ([v0.0.3](https://github.com/themorpheustutorials/certificate-checker/releases/tag/v0.0.3), 1 month ago) - Certificate Checker Application
-- [felbinger/Armitage](https://github.com/felbinger/Armitage) ([v1.0.0](https://github.com/felbinger/Armitage/releases/tag/v1.0.0), 2 months ago) - Dockerized Armitage Teamserver
+- [felbinger/Armitage](https://github.com/felbinger/Armitage) ([v1.0.0](https://github.com/felbinger/Armitage/releases/tag/v1.0.0), 3 months ago) - Dockerized Armitage Teamserver
 - [secshellnet/keycloak-configurator](https://github.com/secshellnet/keycloak-configurator) ([v1.0.3](https://github.com/secshellnet/keycloak-configurator/releases/tag/v1.0.3), 6 months ago) - Application to adjust keycloak xml configuration
