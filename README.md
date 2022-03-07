@@ -12,10 +12,10 @@
 ### :construction_worker: Check out what I'm currently working on
 
 - [themorpheustutorials/status](https://github.com/themorpheustutorials/status) - The Moprheus Tutorials Statuspage (2 weeks ago)
-- [secshellnet/sftpshare](https://github.com/secshellnet/sftpshare) - This repository provides a sftp share which can be deployed using docker. (4 weeks ago)
+- [secshellnet/sftpshare](https://github.com/secshellnet/sftpshare) - This repository provides a sftp share which can be deployed using docker. (1 month ago)
 - [felbinger/PyTemplate](https://github.com/felbinger/PyTemplate) - Python Django Deployment using Docker (1 month ago)
-- [felbinger/JavaTemplate](https://github.com/felbinger/JavaTemplate) - Java CI Template (1 month ago)
 - [felbinger/KotlinTemplate](https://github.com/felbinger/KotlinTemplate) - Kotlin CI Template (1 month ago)
+- [felbinger/JavaTemplate](https://github.com/felbinger/JavaTemplate) - Java CI Template (1 month ago)
 
 ### :seedling: My latest projects
 
@@ -27,7 +27,7 @@
 
 ### :telescope: Latest releases I've contributed to
 
-- [secshellnet/sftpshare](https://github.com/secshellnet/sftpshare) ([v0.0.1](https://github.com/secshellnet/sftpshare/releases/tag/v0.0.1), 4 weeks ago) - This repository provides a sftp share which can be deployed using docker.
+- [secshellnet/sftpshare](https://github.com/secshellnet/sftpshare) ([v0.0.1](https://github.com/secshellnet/sftpshare/releases/tag/v0.0.1), 1 month ago) - This repository provides a sftp share which can be deployed using docker.
 - [themorpheustutorials/certificate-checker](https://github.com/themorpheustutorials/certificate-checker) ([v0.0.3](https://github.com/themorpheustutorials/certificate-checker/releases/tag/v0.0.3), 2 months ago) - Certificate Checker Application
 - [felbinger/Armitage](https://github.com/felbinger/Armitage) ([v1.0.0](https://github.com/felbinger/Armitage/releases/tag/v1.0.0), 3 months ago) - Dockerized Armitage Teamserver
 - [secshellnet/keycloak-configurator](https://github.com/secshellnet/keycloak-configurator) ([v1.0.3](https://github.com/secshellnet/keycloak-configurator/releases/tag/v1.0.3), 6 months ago) - Application to adjust keycloak xml configuration
