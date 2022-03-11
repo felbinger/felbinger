@@ -11,19 +11,19 @@
 
 ### :construction_worker: Check out what I'm currently working on
 
-- [themorpheustutorials/status](https://github.com/themorpheustutorials/status) - The Moprheus Tutorials Statuspage (1 day ago)
+- [felbinger/DjangoMFA](https://github.com/felbinger/DjangoMFA) - Django Multi Factor Authencation (1 day ago)
+- [themorpheustutorials/status](https://github.com/themorpheustutorials/status) - The Moprheus Tutorials Statuspage (2 days ago)
 - [secshellnet/sftpshare](https://github.com/secshellnet/sftpshare) - This repository provides a sftp share which can be deployed using docker. (1 month ago)
 - [felbinger/PyTemplate](https://github.com/felbinger/PyTemplate) - Python Django Deployment using Docker (1 month ago)
-- [felbinger/KotlinTemplate](https://github.com/felbinger/KotlinTemplate) - Kotlin CI Template (1 month ago)
 - [felbinger/JavaTemplate](https://github.com/felbinger/JavaTemplate) - Java CI Template (1 month ago)
 
 ### :seedling: My latest projects
 
+- [felbinger/DjangoMFA](https://github.com/felbinger/DjangoMFA) - Django Multi Factor Authencation
 - [felbinger/CF-WebDNS](https://github.com/felbinger/CF-WebDNS) - Cloudflare WebDNS Panel with API Token authentication
 - [felbinger/django-snippets](https://github.com/felbinger/django-snippets) - Code Snippets for Django 3.2
 - [felbinger/nginx-md-renderer](https://github.com/felbinger/nginx-md-renderer) - nginx configuration to render markdown files
 - [felbinger/UbiquitiNS5Config](https://github.com/felbinger/UbiquitiNS5Config) - Richtfunkstrecke mit Ubiquiti NanoStation 5
-- [felbinger/PostInstall_Fedora](https://github.com/felbinger/PostInstall_Fedora) - Post Installation Routines for Fedora 35
 
 ### :telescope: Latest releases I've contributed to
 
