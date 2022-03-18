@@ -11,11 +11,11 @@
 
 ### :construction_worker: Check out what I'm currently working on
 
-- [themorpheustutorials/certificate-checker](https://github.com/themorpheustutorials/certificate-checker) - Certificate Checker Application (6 days ago)
+- [felbinger/PostInstall_Fedora](https://github.com/felbinger/PostInstall_Fedora) - Post Installation Routines for Fedora 35 (1 day ago)
+- [themorpheustutorials/certificate-checker](https://github.com/themorpheustutorials/certificate-checker) - Certificate Checker Application (1 week ago)
 - [felbinger/DjangoMFA](https://github.com/felbinger/DjangoMFA) - Django Multi Factor Authencation (1 week ago)
 - [themorpheustutorials/status](https://github.com/themorpheustutorials/status) - The Moprheus Tutorials Statuspage (1 week ago)
 - [secshellnet/sftpshare](https://github.com/secshellnet/sftpshare) - This repository provides a sftp share which can be deployed using docker. (1 month ago)
-- [felbinger/PyTemplate](https://github.com/felbinger/PyTemplate) - Python Django Deployment using Docker (1 month ago)
 
 ### :seedling: My latest projects
 
