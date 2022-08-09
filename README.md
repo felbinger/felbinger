@@ -11,7 +11,7 @@
 
 ### :construction_worker: Check out what I'm currently working on
 
-- [secshellnet/docs](https://github.com/secshellnet/docs) (3 days ago)
+- [secshellnet/docs](https://github.com/secshellnet/docs) (4 days ago)
 - [felbinger/WPM](https://github.com/felbinger/WPM) - Wireguard Peer Manager (1 month ago)
 - [felbinger/PostInstall_Fedora](https://github.com/felbinger/PostInstall_Fedora) - Post Installation Routines for Fedora 35 (1 month ago)
 - [secshellnet/sftpshare](https://github.com/secshellnet/sftpshare) - This repository provides a sftp share which can be deployed using docker. (2 months ago)
@@ -19,11 +19,11 @@
 
 ### :seedling: My latest projects
 
+- [felbinger/kali-live-build](https://github.com/felbinger/kali-live-build)
 - [felbinger/WPM](https://github.com/felbinger/WPM) - Wireguard Peer Manager
 - [felbinger/DjangoMFA](https://github.com/felbinger/DjangoMFA) - Django Multi Factor Authencation
 - [felbinger/CF-WebDNS](https://github.com/felbinger/CF-WebDNS) - Cloudflare WebDNS Panel with API Token authentication
 - [felbinger/django-snippets](https://github.com/felbinger/django-snippets) - Code Snippets for Django 3.2
-- [felbinger/nginx-md-renderer](https://github.com/felbinger/nginx-md-renderer) - nginx configuration to render markdown files
 
 ### :telescope: Latest releases I've contributed to
 
