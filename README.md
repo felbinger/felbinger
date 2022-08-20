@@ -11,19 +11,19 @@
 
 ### :construction_worker: Check out what I'm currently working on
 
-- [os-builds/vyos](https://github.com/os-builds/vyos) - VyOS build in github actions (today)
-- [felbinger/kali-live-build](https://github.com/felbinger/kali-live-build) (1 day ago)
-- [felbinger/debian-live-build](https://github.com/felbinger/debian-live-build) - Live Build in GitHub Actions (2 days ago)
-- [secshellnet/docs](https://github.com/secshellnet/docs) (5 days ago)
+- [os-builds/kali](https://github.com/os-builds/kali) (today)
+- [os-builds/vyos](https://github.com/os-builds/vyos) - VyOS build in github actions (1 day ago)
+- [os-builds/debian](https://github.com/os-builds/debian) - Live Build in GitHub Actions (3 days ago)
+- [secshellnet/docs](https://github.com/secshellnet/docs) (6 days ago)
 - [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) - Linux Server Administrator Guide (1 week ago)
 
 ### :seedling: My latest projects
 
-- [felbinger/kali-live-build](https://github.com/felbinger/kali-live-build)
-- [felbinger/debian-live-build](https://github.com/felbinger/debian-live-build) - Live Build in GitHub Actions
 - [felbinger/WPM](https://github.com/felbinger/WPM) - Wireguard Peer Manager
 - [felbinger/DjangoMFA](https://github.com/felbinger/DjangoMFA) - Django Multi Factor Authencation
 - [felbinger/CF-WebDNS](https://github.com/felbinger/CF-WebDNS) - Cloudflare WebDNS Panel with API Token authentication
+- [felbinger/django-snippets](https://github.com/felbinger/django-snippets) - Code Snippets for Django 3.2
+- [felbinger/nginx-md-renderer](https://github.com/felbinger/nginx-md-renderer) - nginx configuration to render markdown files
 
 ### :telescope: Latest releases I've contributed to
 
