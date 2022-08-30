@@ -11,8 +11,8 @@
 
 ### :construction_worker: Check out what I'm currently working on
 
-- [os-builds/debian](https://github.com/os-builds/debian) - Live Build in GitHub Actions (3 days ago)
-- [os-builds/kali](https://github.com/os-builds/kali) (4 days ago)
+- [os-builds/kali](https://github.com/os-builds/kali) (1 day ago)
+- [os-builds/debian](https://github.com/os-builds/debian) - Live Build in GitHub Actions (4 days ago)
 - [secshellnet/docs](https://github.com/secshellnet/docs) (2 weeks ago)
 - [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) - Linux Server Administrator Guide (2 weeks ago)
 - [felbinger/WPM](https://github.com/felbinger/WPM) - Wireguard Peer Manager (1 month ago)
