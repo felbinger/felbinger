@@ -11,11 +11,11 @@
 
 ### :construction_worker: Check out what I'm currently working on
 
-- [felbinger/dbxcli](https://github.com/felbinger/dbxcli) - dbxcli with refresh token workarround (1 day ago)
-- [os-builds/debian](https://github.com/os-builds/debian) - Live Build in GitHub Actions (2 days ago)
-- [felbinger/WPM](https://github.com/felbinger/WPM) - Wireguard Peer Manager (2 days ago)
-- [os-builds/kali](https://github.com/os-builds/kali) (3 days ago)
-- [themorpheustutorials/website](https://github.com/themorpheustutorials/website) - Website of The Morpheus Tutorials (4 days ago)
+- [felbinger/dbxcli](https://github.com/felbinger/dbxcli) - dbxcli with refresh token workarround (2 days ago)
+- [felbinger/WPM](https://github.com/felbinger/WPM) - Wireguard Peer Manager (3 days ago)
+- [os-builds/debian](https://github.com/os-builds/debian) - Live Build in GitHub Actions (3 days ago)
+- [os-builds/kali](https://github.com/os-builds/kali) (4 days ago)
+- [themorpheustutorials/website](https://github.com/themorpheustutorials/website) - Website of The Morpheus Tutorials (5 days ago)
 
 ### :seedling: My latest projects
 
@@ -27,8 +27,8 @@
 
 ### :telescope: Latest releases I've contributed to
 
-- [felbinger/WPM](https://github.com/felbinger/WPM) ([v1.0.8](https://github.com/felbinger/WPM/releases/tag/v1.0.8), 2 days ago) - Wireguard Peer Manager
-- [themorpheustutorials/certificate-checker](https://github.com/themorpheustutorials/certificate-checker) ([v0.0.4](https://github.com/themorpheustutorials/certificate-checker/releases/tag/v0.0.4), 3 days ago) - Certificate Checker Application
-- [ansible-community/ansible-lint-action](https://github.com/ansible-community/ansible-lint-action) ([v6.3.0](https://github.com/ansible-community/ansible-lint-action/releases/tag/v6.3.0), 3 weeks ago) - Community maintained ansible-lint Github Action
+- [ansible-community/ansible-lint-action](https://github.com/ansible-community/ansible-lint-action) ([v6.5.2](https://github.com/ansible-community/ansible-lint-action/releases/tag/v6.5.2), 1 day ago) - Community maintained ansible-lint Github Action
+- [felbinger/WPM](https://github.com/felbinger/WPM) ([v1.0.8](https://github.com/felbinger/WPM/releases/tag/v1.0.8), 3 days ago) - Wireguard Peer Manager
+- [themorpheustutorials/certificate-checker](https://github.com/themorpheustutorials/certificate-checker) ([v0.0.4](https://github.com/themorpheustutorials/certificate-checker/releases/tag/v0.0.4), 4 days ago) - Certificate Checker Application
 - [secshellnet/keycloak](https://github.com/secshellnet/keycloak) ([v19.0.1](https://github.com/secshellnet/keycloak/releases/tag/v19.0.1), 1 month ago) - Keycloak &gt;17 with PostgreSQL support
 - [secshellnet/sftpshare](https://github.com/secshellnet/sftpshare) ([v0.0.2](https://github.com/secshellnet/sftpshare/releases/tag/v0.0.2), 3 months ago) - This repository provides a sftp share which can be deployed using docker.
