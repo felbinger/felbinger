@@ -11,10 +11,10 @@
 
 ### :construction_worker: Check out what I'm currently working on
 
-- [felbinger/test](https://github.com/felbinger/test) (6 days ago)
-- [felbinger/dbxcli](https://github.com/felbinger/dbxcli) - dbxcli with refresh token workarround (1 week ago)
-- [os-builds/debian](https://github.com/os-builds/debian) - Live Build in GitHub Actions (2 weeks ago)
+- [felbinger/dbxcli](https://github.com/felbinger/dbxcli) - dbxcli with refresh token workarround (1 day ago)
+- [felbinger/test](https://github.com/felbinger/test) (1 week ago)
 - [felbinger/WPM](https://github.com/felbinger/WPM) - Wireguard Peer Manager (2 weeks ago)
+- [os-builds/debian](https://github.com/os-builds/debian) - Live Build in GitHub Actions (2 weeks ago)
 - [os-builds/kali](https://github.com/os-builds/kali) (2 weeks ago)
 
 ### :seedling: My latest projects
