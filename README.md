@@ -27,7 +27,7 @@
 
 ### :telescope: Latest releases I've contributed to
 
-- [secshellnet/keycloak](https://github.com/secshellnet/keycloak) ([v19.0.3](https://github.com/secshellnet/keycloak/releases/tag/v19.0.3), 1 day ago) - Keycloak &gt;17 with PostgreSQL support
+- [secshellnet/keycloak](https://github.com/secshellnet/keycloak) ([v19.0.3](https://github.com/secshellnet/keycloak/releases/tag/v19.0.3), 2 days ago) - Keycloak &gt;17 with PostgreSQL support
 - [felbinger/dbm](https://github.com/felbinger/dbm) ([v0.0.4](https://github.com/felbinger/dbm/releases/tag/v0.0.4), 1 week ago) - Docker Backup Manager
 - [ansible/ansible-lint-action](https://github.com/ansible/ansible-lint-action) ([v6.8.2](https://github.com/ansible/ansible-lint-action/releases/tag/v6.8.2), 1 week ago) - Community maintained ansible-lint Github Action
 - [felbinger/WPM](https://github.com/felbinger/WPM) ([v1.0.8](https://github.com/felbinger/WPM/releases/tag/v1.0.8), 1 month ago) - Wireguard Peer Manager
