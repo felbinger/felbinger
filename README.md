@@ -11,9 +11,9 @@
 
 ### :construction_worker: Check out what I'm currently working on
 
-- [felbinger/dbm](https://github.com/felbinger/dbm) - Docker Backup Manager (1 week ago)
+- [felbinger/dbm](https://github.com/felbinger/dbm) - Docker Backup Manager (2 weeks ago)
 - [felbinger/arma3server](https://github.com/felbinger/arma3server) - LGSM Arma 3 Server (2 weeks ago)
-- [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) - Linux Server Administrator Guide (2 weeks ago)
+- [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) - Linux Server Administrator Guide (3 weeks ago)
 - [helpwave/rest-api](https://github.com/helpwave/rest-api) - The official restful application programming interface of helpwave (3 weeks ago)
 - [os-builds/kali](https://github.com/os-builds/kali) (4 weeks ago)
 
@@ -27,8 +27,8 @@
 
 ### :telescope: Latest releases I've contributed to
 
-- [secshellnet/keycloak](https://github.com/secshellnet/keycloak) ([v19.0.3](https://github.com/secshellnet/keycloak/releases/tag/v19.0.3), 5 days ago) - Keycloak &gt;17 with PostgreSQL support
-- [felbinger/dbm](https://github.com/felbinger/dbm) ([v0.0.4](https://github.com/felbinger/dbm/releases/tag/v0.0.4), 1 week ago) - Docker Backup Manager
+- [secshellnet/keycloak](https://github.com/secshellnet/keycloak) ([v19.0.3](https://github.com/secshellnet/keycloak/releases/tag/v19.0.3), 6 days ago) - Keycloak &gt;17 with PostgreSQL support
+- [felbinger/dbm](https://github.com/felbinger/dbm) ([v0.0.4](https://github.com/felbinger/dbm/releases/tag/v0.0.4), 2 weeks ago) - Docker Backup Manager
 - [ansible/ansible-lint-action](https://github.com/ansible/ansible-lint-action) ([v6.8.2](https://github.com/ansible/ansible-lint-action/releases/tag/v6.8.2), 2 weeks ago) - Community maintained ansible-lint Github Action
 - [felbinger/WPM](https://github.com/felbinger/WPM) ([v1.0.8](https://github.com/felbinger/WPM/releases/tag/v1.0.8), 1 month ago) - Wireguard Peer Manager
 - [themorpheustutorials/certificate-checker](https://github.com/themorpheustutorials/certificate-checker) ([v0.0.4](https://github.com/themorpheustutorials/certificate-checker/releases/tag/v0.0.4), 1 month ago) - Certificate Checker Application
