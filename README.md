@@ -31,4 +31,4 @@
 - [felbinger/dbm](https://github.com/felbinger/dbm) ([v0.0.4](https://github.com/felbinger/dbm/releases/tag/v0.0.4), 2 weeks ago) - Docker Backup Manager
 - [ansible/ansible-lint-action](https://github.com/ansible/ansible-lint-action) ([v6.8.2](https://github.com/ansible/ansible-lint-action/releases/tag/v6.8.2), 2 weeks ago) - Community maintained ansible-lint Github Action
 - [felbinger/WPM](https://github.com/felbinger/WPM) ([v1.0.8](https://github.com/felbinger/WPM/releases/tag/v1.0.8), 1 month ago) - Wireguard Peer Manager
-- [themorpheustutorials/certificate-checker](https://github.com/themorpheustutorials/certificate-checker) ([v0.0.4](https://github.com/themorpheustutorials/certificate-checker/releases/tag/v0.0.4), 1 month ago) - Certificate Checker Application
+- [themorpheustutorials/certificate-checker](https://github.com/themorpheustutorials/certificate-checker) ([v0.0.4](https://github.com/themorpheustutorials/certificate-checker/releases/tag/v0.0.4), 2 months ago) - Certificate Checker Application
