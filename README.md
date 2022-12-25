@@ -11,7 +11,7 @@
 
 ### :construction_worker: Check out what I'm currently working on
 
-- [felbinger/PostInstall_Fedora](https://github.com/felbinger/PostInstall_Fedora) - Post Installation Routines for Fedora 37 (6 days ago)
+- [felbinger/PostInstall_Fedora](https://github.com/felbinger/PostInstall_Fedora) - Post Installation Routines for Fedora 37 (1 week ago)
 - [secshellnet/woodpecker-ansible-vyos-ci](https://github.com/secshellnet/woodpecker-ansible-vyos-ci) (2 weeks ago)
 - [secshellnet/woodpecker-ansible](https://github.com/secshellnet/woodpecker-ansible) - Docker image to run ansible in woodpecker ci (2 weeks ago)
 - [secshellnet/woodpecker-ansible-vyos-cd](https://github.com/secshellnet/woodpecker-ansible-vyos-cd) (2 weeks ago)
@@ -27,8 +27,8 @@
 
 ### :telescope: Latest releases I've contributed to
 
+- [ansible/ansible-lint-action](https://github.com/ansible/ansible-lint-action) ([v6.10.0](https://github.com/ansible/ansible-lint-action/releases/tag/v6.10.0), 1 day ago) - Ansible-lint Github Action
 - [secshellnet/woodpecker-ansible-vyos-ci](https://github.com/secshellnet/woodpecker-ansible-vyos-ci) ([v0.0.4](https://github.com/secshellnet/woodpecker-ansible-vyos-ci/releases/tag/v0.0.4), 2 weeks ago)
 - [secshellnet/woodpecker-ansible-vyos-cd](https://github.com/secshellnet/woodpecker-ansible-vyos-cd) ([v0.0.1](https://github.com/secshellnet/woodpecker-ansible-vyos-cd/releases/tag/v0.0.1), 2 weeks ago)
 - [secshellnet/woodpecker-ansible](https://github.com/secshellnet/woodpecker-ansible) ([v0.0.1](https://github.com/secshellnet/woodpecker-ansible/releases/tag/v0.0.1), 2 weeks ago) - Docker image to run ansible in woodpecker ci
-- [os-builds/vyos](https://github.com/os-builds/vyos) ([1.3.2-2](https://github.com/os-builds/vyos/releases/tag/1.3.2-2), 2 weeks ago)
-- [secshellnet/ansible-vyos-validator](https://github.com/secshellnet/ansible-vyos-validator) ([v0.0.4](https://github.com/secshellnet/ansible-vyos-validator/releases/tag/v0.0.4), 2 weeks ago) - Configuration validator for ansible inventory for vyos routers.
+- [os-builds/vyos](https://github.com/os-builds/vyos) ([1.3.2-2](https://github.com/os-builds/vyos/releases/tag/1.3.2-2), 3 weeks ago)
