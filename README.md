@@ -11,11 +11,11 @@
 
 ### :construction_worker: Check out what I'm currently working on
 
-- [os-builds/vyos](https://github.com/os-builds/vyos) (5 days ago)
+- [secshellnet/woodpecker-ansible-vyos-ci](https://github.com/secshellnet/woodpecker-ansible-vyos-ci) (today)
+- [secshellnet/woodpecker-ansible-vyos-cd](https://github.com/secshellnet/woodpecker-ansible-vyos-cd) (today)
+- [secshellnet/woodpecker-ansible](https://github.com/secshellnet/woodpecker-ansible) - Docker image to run ansible in woodpecker ci (today)
+- [os-builds/vyos](https://github.com/os-builds/vyos) (6 days ago)
 - [felbinger/PostInstall_Fedora](https://github.com/felbinger/PostInstall_Fedora) - Post Installation Routines for Fedora 37 (1 week ago)
-- [pkgs-hub/vyatta-zia-server](https://github.com/pkgs-hub/vyatta-zia-server) - Debian (Vyatta) package for zia-server (1 week ago)
-- [pkgs-hub/vyatta-node_exporter](https://github.com/pkgs-hub/vyatta-node_exporter) - Debian (Vyatta) package for node_exporter (1 week ago)
-- [pkgs-hub/vyatta-frr_exporter](https://github.com/pkgs-hub/vyatta-frr_exporter) - Debian (Vyatta) package for frr_exporter (1 week ago)
 
 ### :seedling: My latest projects
 
@@ -27,8 +27,8 @@
 
 ### :telescope: Latest releases I've contributed to
 
-- [pkgs-hub/vyatta-node_exporter](https://github.com/pkgs-hub/vyatta-node_exporter) ([v1.5.0-1](https://github.com/pkgs-hub/vyatta-node_exporter/releases/tag/v1.5.0-1), 5 days ago) - Debian (Vyatta) package for node_exporter
-- [pkgs-hub/vyatta-frr_exporter](https://github.com/pkgs-hub/vyatta-frr_exporter) ([v1.1.4-1](https://github.com/pkgs-hub/vyatta-frr_exporter/releases/tag/v1.1.4-1), 5 days ago) - Debian (Vyatta) package for frr_exporter
-- [ansible/ansible-lint-action](https://github.com/ansible/ansible-lint-action) ([v6.10.2](https://github.com/ansible/ansible-lint-action/releases/tag/v6.10.2), 1 week ago) - Ansible-lint Github Action
-- [pkgs-hub/vyatta-zia-server](https://github.com/pkgs-hub/vyatta-zia-server) ([v0.2.5-1](https://github.com/pkgs-hub/vyatta-zia-server/releases/tag/v0.2.5-1), 1 week ago) - Debian (Vyatta) package for zia-server
-- [secshellnet/woodpecker-ansible-vyos-ci](https://github.com/secshellnet/woodpecker-ansible-vyos-ci) ([v0.0.4](https://github.com/secshellnet/woodpecker-ansible-vyos-ci/releases/tag/v0.0.4), 1 month ago)
+- [secshellnet/woodpecker-ansible](https://github.com/secshellnet/woodpecker-ansible) ([v0.0.2](https://github.com/secshellnet/woodpecker-ansible/releases/tag/v0.0.2), today) - Docker image to run ansible in woodpecker ci
+- [secshellnet/woodpecker-ansible-vyos-ci](https://github.com/secshellnet/woodpecker-ansible-vyos-ci) ([v0.0.5](https://github.com/secshellnet/woodpecker-ansible-vyos-ci/releases/tag/v0.0.5), today)
+- [secshellnet/woodpecker-ansible-vyos-cd](https://github.com/secshellnet/woodpecker-ansible-vyos-cd) ([v0.0.2](https://github.com/secshellnet/woodpecker-ansible-vyos-cd/releases/tag/v0.0.2), today)
+- [pkgs-hub/vyatta-node_exporter](https://github.com/pkgs-hub/vyatta-node_exporter) ([v1.5.0-1](https://github.com/pkgs-hub/vyatta-node_exporter/releases/tag/v1.5.0-1), 6 days ago) - Debian (Vyatta) package for node_exporter
+- [pkgs-hub/vyatta-frr_exporter](https://github.com/pkgs-hub/vyatta-frr_exporter) ([v1.1.4-1](https://github.com/pkgs-hub/vyatta-frr_exporter/releases/tag/v1.1.4-1), 6 days ago) - Debian (Vyatta) package for frr_exporter
