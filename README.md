@@ -27,7 +27,7 @@
 
 ### :telescope: Latest releases I've contributed to
 
-- [ansible/ansible-lint-action](https://github.com/ansible/ansible-lint-action) ([v6.11.0](https://github.com/ansible/ansible-lint-action/releases/tag/v6.11.0), 1 week ago) - Ansible-lint Github Action
+- [ansible/ansible-lint-action](https://github.com/ansible/ansible-lint-action) ([v6.11.0](https://github.com/ansible/ansible-lint-action/releases/tag/v6.11.0), 2 weeks ago) - Ansible-lint Github Action
 - [secshellnet/keycloak](https://github.com/secshellnet/keycloak) ([v20.0.3](https://github.com/secshellnet/keycloak/releases/tag/v20.0.3), 2 weeks ago) - Keycloak &gt;17 with PostgreSQL support
 - [secshellnet/woodpecker-ansible-vyos-ci](https://github.com/secshellnet/woodpecker-ansible-vyos-ci) ([v0.0.10](https://github.com/secshellnet/woodpecker-ansible-vyos-ci/releases/tag/v0.0.10), 2 weeks ago)
 - [secshellnet/ansible-vyos-lint](https://github.com/secshellnet/ansible-vyos-lint) ([v0.0.1](https://github.com/secshellnet/ansible-vyos-lint/releases/tag/v0.0.1), 2 weeks ago) - ansible-lint with vyos.vyos and community.general
