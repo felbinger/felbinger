@@ -30,5 +30,5 @@
 - [secshellnet/woodpecker-ansible-vyos-cd](https://github.com/secshellnet/woodpecker-ansible-vyos-cd) ([v0.0.5](https://github.com/secshellnet/woodpecker-ansible-vyos-cd/releases/tag/v0.0.5), 2 weeks ago)
 - [secshellnet/woodpecker-ansible-vyos-ci](https://github.com/secshellnet/woodpecker-ansible-vyos-ci) ([v0.0.11](https://github.com/secshellnet/woodpecker-ansible-vyos-ci/releases/tag/v0.0.11), 2 weeks ago)
 - [secshellnet/woodpecker-ansible](https://github.com/secshellnet/woodpecker-ansible) ([v0.0.4](https://github.com/secshellnet/woodpecker-ansible/releases/tag/v0.0.4), 2 weeks ago) - Docker image to run ansible in woodpecker ci
-- [ansible/ansible-lint-action](https://github.com/ansible/ansible-lint-action) ([v6.11.0](https://github.com/ansible/ansible-lint-action/releases/tag/v6.11.0), 4 weeks ago) - Ansible-lint Github Action
+- [ansible/ansible-lint-action](https://github.com/ansible/ansible-lint-action) ([v6.11.0](https://github.com/ansible/ansible-lint-action/releases/tag/v6.11.0), 1 month ago) - Ansible-lint Github Action
 - [secshellnet/keycloak](https://github.com/secshellnet/keycloak) ([v20.0.3](https://github.com/secshellnet/keycloak/releases/tag/v20.0.3), 1 month ago) - Keycloak &gt;17 with PostgreSQL support
