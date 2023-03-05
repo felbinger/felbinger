@@ -13,9 +13,9 @@
 
 - [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) - Linux Server Administrator Guide (3 weeks ago)
 - [secshellnet/woodpecker-ansible](https://github.com/secshellnet/woodpecker-ansible) - Docker image to run ansible in woodpecker ci (4 weeks ago)
-- [felbinger/PyTemplate](https://github.com/felbinger/PyTemplate) - Python Django Deployment using Docker (4 weeks ago)
-- [felbinger/DjangoMFA](https://github.com/felbinger/DjangoMFA) - Django Multi Factor Authencation (4 weeks ago)
-- [secshellnet/django](https://github.com/secshellnet/django) - Just an example django application (4 weeks ago)
+- [felbinger/PyTemplate](https://github.com/felbinger/PyTemplate) - Python Django Deployment using Docker (1 month ago)
+- [felbinger/DjangoMFA](https://github.com/felbinger/DjangoMFA) - Django Multi Factor Authencation (1 month ago)
+- [secshellnet/django](https://github.com/secshellnet/django) - Just an example django application (1 month ago)
 
 ### :seedling: My latest projects
 
