@@ -11,8 +11,8 @@
 
 ### :construction_worker: Check out what I'm currently working on
 
-- [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library) - A collection of community-sourced DeviceType definitions for import to NetBox (5 days ago)
-- [felbinger/qt-testci](https://github.com/felbinger/qt-testci) - just some tests (5 days ago)
+- [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library) - A collection of community-sourced DeviceType definitions for import to NetBox (6 days ago)
+- [felbinger/qt-testci](https://github.com/felbinger/qt-testci) - just some tests (6 days ago)
 - [secshellnet/ansible-vyos-validator](https://github.com/secshellnet/ansible-vyos-validator) - Configuration validator for ansible inventory for vyos routers. (1 week ago)
 - [secshellnet/woodpecker-ansible-vyos-cd](https://github.com/secshellnet/woodpecker-ansible-vyos-cd) (1 week ago)
 - [secshellnet/woodpecker-ansible-vyos-ci](https://github.com/secshellnet/woodpecker-ansible-vyos-ci) (1 week ago)
