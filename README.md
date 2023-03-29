@@ -27,7 +27,7 @@
 
 ### :telescope: Latest releases I've contributed to
 
-- [pkgs-hub/vyatta-zia-server](https://github.com/pkgs-hub/vyatta-zia-server) ([v0.2.8-1](https://github.com/pkgs-hub/vyatta-zia-server/releases/tag/v0.2.8-1), 5 days ago) - Debian (Vyatta) package for zia-server
+- [pkgs-hub/vyatta-zia-server](https://github.com/pkgs-hub/vyatta-zia-server) ([v0.2.8-1](https://github.com/pkgs-hub/vyatta-zia-server/releases/tag/v0.2.8-1), 6 days ago) - Debian (Vyatta) package for zia-server
 - [secshellnet/woodpecker-ansible-vyos-ci](https://github.com/secshellnet/woodpecker-ansible-vyos-ci) ([v0.0.13](https://github.com/secshellnet/woodpecker-ansible-vyos-ci/releases/tag/v0.0.13), 3 weeks ago)
 - [secshellnet/woodpecker-ansible-vyos-cd](https://github.com/secshellnet/woodpecker-ansible-vyos-cd) ([v0.0.7](https://github.com/secshellnet/woodpecker-ansible-vyos-cd/releases/tag/v0.0.7), 3 weeks ago)
 - [secshellnet/ansible-vyos-validator](https://github.com/secshellnet/ansible-vyos-validator) ([v0.0.5](https://github.com/secshellnet/ansible-vyos-validator/releases/tag/v0.0.5), 3 weeks ago) - Configuration validator for ansible inventory for vyos routers.
