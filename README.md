@@ -11,10 +11,10 @@
 
 ### :construction_worker: Check out what I'm currently working on
 
+- [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) - Linux Server Administrator Guide (today)
 - [SirTilington/kiExamSolver](https://github.com/SirTilington/kiExamSolver) - A Script that automates some things (2 weeks ago)
 - [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library) - A collection of community-sourced DeviceType definitions for import to NetBox (1 month ago)
 - [felbinger/qt-testci](https://github.com/felbinger/qt-testci) - just some tests (1 month ago)
-- [secshellnet/woodpecker-ansible-vyos-ci](https://github.com/secshellnet/woodpecker-ansible-vyos-ci) (1 month ago)
 - [secshellnet/woodpecker-ansible-vyos-cd](https://github.com/secshellnet/woodpecker-ansible-vyos-cd) (1 month ago)
 
 ### :seedling: My latest projects
