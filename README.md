@@ -11,10 +11,10 @@
 
 ### :construction_worker: Check out what I'm currently working on
 
-- [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) - Linux Server Administrator Guide (1 day ago)
-- [os-builds/vyos](https://github.com/os-builds/vyos) (4 days ago)
+- [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) - Linux Server Administrator Guide (2 days ago)
+- [os-builds/vyos](https://github.com/os-builds/vyos) (5 days ago)
 - [pkgs-hub/vyatta-web](https://github.com/pkgs-hub/vyatta-web) - Vyatta package to provide a small webserver to serve files like debian preseed.cfg or rhel kickstart.conf (1 week ago)
-- [SirTilington/kiExamSolver](https://github.com/SirTilington/kiExamSolver) - A Script that automates some things (3 weeks ago)
+- [SirTilington/kiExamSolver](https://github.com/SirTilington/kiExamSolver) - A Script that automates some things (4 weeks ago)
 - [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library) - A collection of community-sourced DeviceType definitions for import to NetBox (1 month ago)
 
 ### :seedling: My latest projects
@@ -27,8 +27,8 @@
 
 ### :telescope: Latest releases I've contributed to
 
-- [os-builds/vyos](https://github.com/os-builds/vyos) ([1.3.2-3](https://github.com/os-builds/vyos/releases/tag/1.3.2-3), 5 days ago)
-- [pkgs-hub/vyatta-web](https://github.com/pkgs-hub/vyatta-web) ([v1.0.0](https://github.com/pkgs-hub/vyatta-web/releases/tag/v1.0.0), 5 days ago) - Vyatta package to provide a small webserver to serve files like debian preseed.cfg or rhel kickstart.conf
+- [pkgs-hub/vyatta-web](https://github.com/pkgs-hub/vyatta-web) ([v1.0.0](https://github.com/pkgs-hub/vyatta-web/releases/tag/v1.0.0), 6 days ago) - Vyatta package to provide a small webserver to serve files like debian preseed.cfg or rhel kickstart.conf
 - [felbinger/dbm](https://github.com/felbinger/dbm) ([v0.0.5](https://github.com/felbinger/dbm/releases/tag/v0.0.5), 3 weeks ago) - Docker Backup Manager
 - [pkgs-hub/vyatta-zia-server](https://github.com/pkgs-hub/vyatta-zia-server) ([v0.2.8-2](https://github.com/pkgs-hub/vyatta-zia-server/releases/tag/v0.2.8-2), 3 weeks ago) - Debian (Vyatta) package for zia-server
 - [secshellnet/woodpecker-ansible-vyos-ci](https://github.com/secshellnet/woodpecker-ansible-vyos-ci) ([v0.0.13](https://github.com/secshellnet/woodpecker-ansible-vyos-ci/releases/tag/v0.0.13), 1 month ago)
+- [secshellnet/woodpecker-ansible-vyos-cd](https://github.com/secshellnet/woodpecker-ansible-vyos-cd) ([v0.0.7](https://github.com/secshellnet/woodpecker-ansible-vyos-cd/releases/tag/v0.0.7), 1 month ago)
