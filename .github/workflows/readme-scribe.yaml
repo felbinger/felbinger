@@ -3,7 +3,7 @@ name: Update README.md
 on:
   push:
   schedule:
-    - cron: "0 0 */1 * *"
+    - cron: "0 0 * * *"
 
 jobs:
   markscribe:
@@ -14,7 +14,7 @@ jobs:
 
       - uses: muesli/readme-scribe@master
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_PAT_PACKAGES }}
+          GITHUB_TOKEN: ${{ github.token }}
         with:
           template: "README.tpl.md"
           writeTo: "README.md"
